@@ -1,12 +1,12 @@
 {
-    "name": "okta/jwt-verifier",
+    "name": "MHauray/jwt-verifier",
     "description": "A verifier library for working with Okta JWT's",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Brian Retterer",
-            "email": "brian.retterer@okta.com"
+            "name": "mhauray@thegobeliners.com",
+            "email": "mhauray@thegobeliners.com"
         }
     ],
     "autoload": {
