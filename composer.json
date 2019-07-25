@@ -1,6 +1,6 @@
 {
-    "name": "MHauray/jwt-verifier",
-    "description": "A verifier library for working with Okta JWT's",
+    "name": "mhauray/jwt-verifier",
+    "description": "Test Fork From okta/jwt-verifier",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
